@@ -11,3 +11,13 @@ for i in range(n):
         break
       j=j+0.01
     break
+
+
+'''
+Output
+enter a number 100
+10
+
+another no---
+enter a number 95
+9.749999999999984
